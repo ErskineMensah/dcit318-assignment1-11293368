@@ -1,0 +1,7 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\Ticket_Price_Calculator.exe.config
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\Ticket_Price_Calculator.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Ticket_Price_Calculator\Ticket_Price_Calculator\bin\Debug\Ticket_Price_Calculator.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\Ticket_Price_Calculator.csproj.AssemblyReference.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\Ticket_Price_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\Ticket_Price_Calculator.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Ticket_Price_Calculator\Ticket_Price_Calculator\obj\Debug\Ticket_Price_Calculator.pdb
