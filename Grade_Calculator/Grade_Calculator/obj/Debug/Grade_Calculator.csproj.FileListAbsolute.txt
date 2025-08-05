@@ -1,0 +1,8 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.exe.config
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.csproj.AssemblyReference.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.exe.config
