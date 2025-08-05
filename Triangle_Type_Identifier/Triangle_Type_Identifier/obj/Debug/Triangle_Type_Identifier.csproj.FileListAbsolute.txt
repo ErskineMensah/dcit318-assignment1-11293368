@@ -1,0 +1,8 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\bin\Debug\Triangle_Type_Identifier.exe.config
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\bin\Debug\Triangle_Type_Identifier.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\bin\Debug\Triangle_Type_Identifier.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\obj\Debug\Triangle_Type_Identifier.csproj.AssemblyReference.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\obj\Debug\Triangle_Type_Identifier.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\obj\Debug\Triangle_Type_Identifier.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\obj\Debug\Triangle_Type_Identifier.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A1\Assignment 1 Code\dcit318-assignment1-11293368\Triangle_Type_Identifier\Triangle_Type_Identifier\obj\Debug\Triangle_Type_Identifier.exe.config
