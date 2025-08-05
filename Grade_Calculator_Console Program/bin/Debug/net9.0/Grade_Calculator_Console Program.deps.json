@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Grade_Calculator_Console Program/1.0.0": {
+        "runtime": {
+          "Grade_Calculator_Console Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grade_Calculator_Console Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
